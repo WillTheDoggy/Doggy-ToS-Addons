@@ -14,7 +14,7 @@ Example Installation:
 ---
 
 ##### FPSIncreaser.IPF
-Toggle effects and UI in order to increase your FPS substantially.
-**Make sure you have Num Lock ON!**
-Press NumPad0 to turn off.
-Press NumPad1 to turn on.
+* Toggle effects and UI in order to increase your FPS substantially.
+* **Make sure you have Num Lock ON!**
+* Press NumPad0 to turn off.
+* Press NumPad1 to turn on.
