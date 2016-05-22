@@ -15,13 +15,23 @@ Tree of Savior Addons. All respectful code belongs to IMC Games.
 ---
 ---
 
-### FPSIncreaser.IPF
+### fpsincreaser.ipf
 * Toggle effects and UI in order to increase your FPS substantially.
 * **Make sure you have Num Lock ON!**
 * Press NumPad0 to turn off.
 * Press NumPad1 to turn on.
 
+---
+---
 
+### autopot.ipf
+* Automatically uses a potion if you need it.
+* Activates HP Potion below 50% maximum HP
+* Activates SP Potion below 50% maximum SP
+* Future Plans: Automatically use an antidote if needed.
+
+---
+---
 ---
 ---
 
