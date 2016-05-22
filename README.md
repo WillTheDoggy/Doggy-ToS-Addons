@@ -1,5 +1,7 @@
 # Doggy-ToS-Addons
 
+Tree of Savior Addons. All respectful code belongs to IMC Games.
+
 ##### How to Install
 1. Download the IPF file you want.
 2. Put it in the C:\Program Files (x86)\Steam\steamapps\common\TreeOfSavior\data  folder
