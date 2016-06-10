@@ -23,15 +23,6 @@ Tree of Savior Addons. All respectful code belongs to IMC Games.
 
 ---
 ---
-
-### autopot.ipf
-* Automatically uses a potion if you need it.
-* Activates HP Potion below 50% maximum HP
-* Activates SP Potion below 50% maximum SP
-* Future Plans: Automatically use an antidote if needed.
-
----
----
 ---
 ---
 
